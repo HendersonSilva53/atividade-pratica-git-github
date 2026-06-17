@@ -66,3 +66,7 @@ input#email:focus {
 }
 
 /* DESENVOLVEDOR B: ADICIONE A CLASSE DE ERRO DA SENHA ABAIXO */
+
+.erro {
+    border: 2px solid red;
+}
